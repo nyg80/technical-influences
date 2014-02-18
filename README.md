@@ -1,4 +1,4 @@
-technical-influences
+Technical Influences
 ====================
 
 **Derek Sivers** – I remember I first found him through his article “Delegate or Die: The Self-Employed Trap.”  Since then, I have read many of his essays which I have found to be full of relevant, practical insights into entrepreneurship, technology, and personal growth.  Most of the books I've read in the last few years have come from his list of book reviews (sivers.org/book).
