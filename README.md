@@ -12,3 +12,5 @@ Technical Influences
 **Richard Stallman** aka RMS – I look up to RMS for his technical chops, as well as his way of sticking to his principles on controversial topics of today, including Facebook (http://stallman.org/facebook.html) and software being free (as in speech).
 
 **Paul Graham** aka PG – My freshman year of college I came across one of his essays, and I went on to read all of them.  After reading all his essays, I started reading Hacker News and was hooked.  He presents many well thought out ideas, and it is often easier for me to simply refer someone to one of his essays rather than explain a point, such as what he covers in “Maker's vs. Manager's Schedule.”
+
+**Steve Yegge** I first read lots of his blog posts back in early high school, but had forgotten about him for a while.  Rediscovered him through a comment on HN.  Steve possesses wisdom and (funny) eloquence I can only hope to achieve some day.  I recall his post on reading math books inspired me to get into reading textbooks and other technical texts, all the while trying to gain an appreciation, in addition to an understanding, of the material.
